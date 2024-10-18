@@ -18,6 +18,6 @@
     Esta imagen representa que somos seres efimeros, en este plano astral al que llamamos vida.
 
 5. Agradecimientos
-
+Iba a agradecerle a Dios, pero como el trabajo lo hemos hecho mi compañero Manuel y yo, gracias por nada.
 
 >>>>>>> bf7022ac309ca9cdcd2ebfda5db8d22d40aa95e9
