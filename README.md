@@ -11,6 +11,7 @@ Esta es la introducción, aquí introducimos la parte introductoria de los intro
 1. Presentacion
 2. El proyecto
 3. Instalacion
+Hay que tener unos cuantos maderos largos, unas arandelas del 17, y ganas de destrozar una fortaleza cercana. Con estos elementos, una vaca y gasolina, se puede liar.
 4. Instrucciones operacionales
 5. Agradecimientos
 
